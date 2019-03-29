@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 廣西通志
-#+DATE: 2019-03-29 20:53:14.719038
+#+DATE: 2019-03-29 20:53:17.029051
 #+PROPERTY: ID KR2k0054
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 42
 <pb:KR2k0054_WYG_042-1a>¶
 　　欽定四庫全書¶
@@ -39,7 +39,7 @@
 <pb:KR2k0054_WYG_042-11a>¶
 　　啓聖位祭品視¶
 ¶
-　　先師位減太&KR0245;一太牢一¶
+　　先師位減太羹一太牢一¶
 ¶
 　　四配位視¶
 ¶

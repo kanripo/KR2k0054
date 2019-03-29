@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 廣西通志
-#+DATE: 2019-03-29 20:53:14.468442
+#+DATE: 2019-03-29 20:53:16.652661
 #+PROPERTY: ID KR2k0054
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 21
 <pb:KR2k0054_WYG_021-1a>¶
 　　欽定四庫全書¶
@@ -1340,7 +1340,7 @@
 　　西隆州¶
 ¶
 　　東去小路由州城八十里至路程塘九十里至邏¶
-𨓦塘八十里至壩逹村與本府交界南去小路由¶
+邐塘八十里至壩逹村與本府交界南去小路由¶
 州城八十里至路程塘九十里至那陽寨與西林¶
 縣交界北去小路由州城四十里至八渡塘四十¶
 <pb:KR2k0054_WYG_021-61a>¶

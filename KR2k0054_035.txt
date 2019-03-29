@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 廣西通志
-#+DATE: 2019-03-29 20:53:14.615506
+#+DATE: 2019-03-29 20:53:16.919238
 #+PROPERTY: ID KR2k0054
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 35
 <pb:KR2k0054_WYG_035-1a>¶
 　　欽定四庫全書¶
@@ -1070,7 +1070,7 @@
 　　西林縣向無城垣¶
 ¶
 <pb:KR2k0054_WYG_035-50b>¶
-　　國朝康熙六年知縣王&KR0464;創築土城高九尺濶二尺¶
+　　國朝康熙六年知縣王杰創築土城高九尺濶二尺¶
 五寸周圍二百八十五丈開四門各置樓無雉堞¶
 濠塹¶
 ¶

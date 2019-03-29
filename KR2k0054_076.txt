@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 廣西通志
-#+DATE: 2019-03-29 20:53:15.369404
+#+DATE: 2019-03-29 20:53:17.545940
 #+PROPERTY: ID KR2k0054
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 76
 <pb:KR2k0054_WYG_076-1a>¶
 　　欽定四庫全書¶
@@ -467,7 +467,7 @@
 <pb:KR2k0054_WYG_076-14b>¶
 　　張　宏(臨桂人任永安學正)　　唐得鵬(全州人任永寧知縣)¶
 ¶
-　　歐　&KR1400;(藤縣人任嘉禾知縣)　　馮龍章(太平人任河池學正)¶
+　　歐　犖(藤縣人任嘉禾知縣)　　馮龍章(太平人任河池學正)¶
 ¶
 　　陳紹堯(全州人任黎城知縣)　　陳廷綸(平樂人見進士)¶
 ¶

@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 廣西通志
-#+DATE: 2019-03-29 20:53:14.767839
+#+DATE: 2019-03-29 20:53:17.078851
 #+PROPERTY: ID KR2k0054
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 45
 <pb:KR2k0054_WYG_045-1a>¶
 　　欽定四庫全書¶
@@ -236,7 +236,7 @@
 御史中丞裴行立建栁宗元為記刻石又有望月¶
 臺¶
 ¶
-　　&KR0406;鸞亭在龍隠巖之左宋范成大建後廢明成化¶
+　　驂鸞亭在龍隠巖之左宋范成大建後廢明成化¶
 <pb:KR2k0054_WYG_045-10a>¶
 庚子御史戴中總兵白玉復搆亭其上更名怡雲¶
 正徳壬辰御史舒晟重修石壁鑴怡雲亭三字今¶

@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 廣西通志
-#+DATE: 2019-03-29 20:53:14.257089
+#+DATE: 2019-03-29 20:53:16.334296
 #+PROPERTY: ID KR2k0054
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 2
 <pb:KR2k0054_WYG_002-1a>¶
 　　欽定四庫全書¶
@@ -279,7 +279,7 @@
 舒廬桐六蓼及東南百越之國¶
 ¶
 　　宋蔡戡曰分野之說肇自黄帝星文之學源於甘¶
-石其所從来逺矣遷固范𣋌之説以斗女為吳越¶
+石其所從来逺矣遷固范曄之説以斗女為吳越¶
 <pb:KR2k0054_WYG_002-16b>¶
 分而翼軫為荆楚分凡欲知星文之所係先考郡¶
 國之所屬可也方少康庶子之始封而為越國也¶

@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 廣西通志
-#+DATE: 2019-03-29 20:53:14.329324
+#+DATE: 2019-03-29 20:53:16.449690
 #+PROPERTY: ID KR2k0054
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 14
 <pb:KR2k0054_WYG_014-1a>¶
 　　欽定四庫全書¶
@@ -1393,7 +1393,7 @@
 西下江水娟媚魚舟出没於蘆荻烟水間為永一¶
 景¶
 ¶
-　　天井潭在縣東十里潘村門口深數十餘丈&KR0224;魚¶
+　　天井潭在縣東十里潘村門口深數十餘丈網魚¶
 者每得大魚¶
 ¶
 　　白鶴池又名鶴沼縣城西郊外相傳當年池中忽¶

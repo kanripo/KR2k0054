@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 廣西通志
-#+DATE: 2019-03-29 20:53:16.025827
+#+DATE: 2019-03-29 20:53:18.015176
 #+PROPERTY: ID KR2k0054
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 116
 <pb:KR2k0054_WYG_116-1a>¶
 　　欽定四庫全書¶
@@ -601,7 +601,7 @@
 ¶
 　　新太學則¶
 ¶
-　　親詣行禮尊聖之典皇哉&KR0824;以尚矣粵西為古邊徼地¶
+　　親詣行禮尊聖之典皇哉蔑以尚矣粵西為古邊徼地¶
 ¶
 　　自沐浴我¶
 ¶

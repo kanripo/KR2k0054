@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 廣西通志
-#+DATE: 2019-03-29 20:53:14.483416
+#+DATE: 2019-03-29 20:53:16.681799
 #+PROPERTY: ID KR2k0054
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 22
 <pb:KR2k0054_WYG_022-1a>¶
 　　欽定四庫全書¶
@@ -1656,7 +1656,7 @@
 <pb:KR2k0054_WYG_022-61b>¶
 　　橋養江從山谿北流灌橋頭田畆¶
 ¶
-　　龍泉在城南二里灌田甚&KR0270;泉上有歐公橋宋黄¶
+　　龍泉在城南二里灌田甚溥泉上有歐公橋宋黄¶
 山谷改名龍濟¶
 ¶
 　　百葉泉在城東三里澄緑橋左¶

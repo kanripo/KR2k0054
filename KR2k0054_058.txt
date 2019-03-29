@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 廣西通志
-#+DATE: 2019-03-29 20:53:15.031462
+#+DATE: 2019-03-29 20:53:17.291465
 #+PROPERTY: ID KR2k0054
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 58
 <pb:KR2k0054_WYG_058-1a>¶
 　　欽定四庫全書¶
@@ -977,7 +977,7 @@
 <pb:KR2k0054_WYG_058-29b>¶
 　　汪　鍇(正紅旗人康熈四十二年任)¶
 ¶
-　　馬士𩦸(字雲客四川汶川人舉人康熈四十九年任)¶
+　　馬士驥(字雲客四川汶川人舉人康熈四十九年任)¶
 ¶
 　　董策醇(河南獲嘉人進士康熈五十九年任)¶
 ¶

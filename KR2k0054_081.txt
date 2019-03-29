@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 廣西通志
-#+DATE: 2019-03-29 20:53:15.424508
+#+DATE: 2019-03-29 20:53:17.596128
 #+PROPERTY: ID KR2k0054
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 81
 <pb:KR2k0054_WYG_081-1a>¶
 　　欽定四庫全書¶
@@ -283,7 +283,7 @@
 縣政尚寛平聽訟必得其隠徵賦例有加收悉為¶
 禁革攝理番禺剸煩治劇才能益裕值行弓田法¶
 <pb:KR2k0054_WYG_081-14b>¶
-乃親履𤱶畝指計目量推新増以補舊失適足原¶
+乃親履畎畝指計目量推新増以補舊失適足原¶
 額而止吏難逞奸民免加賦衆甚德之以改調去¶
 民立祠祀之(廣東名宦志)¶
 ¶

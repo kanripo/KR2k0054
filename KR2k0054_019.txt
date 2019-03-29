@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 廣西通志
-#+DATE: 2019-03-29 20:53:14.428016
+#+DATE: 2019-03-29 20:53:16.593701
 #+PROPERTY: ID KR2k0054
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 19
 <pb:KR2k0054_WYG_019-1a>¶
 　　欽定四庫全書¶
@@ -1437,7 +1437,7 @@
 跨河為亭雄壯可觀¶
 ¶
 <pb:KR2k0054_WYG_019-49a>¶
-　　國朝康熙二年知縣倪&KR0375;禧率紳士重修今圯改設¶
+　　國朝康熙二年知縣倪𢡟禧率紳士重修今圯改設¶
 船渡¶
 ¶
 　　荔黄渡在縣西五十里¶

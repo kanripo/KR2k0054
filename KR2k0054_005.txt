@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 廣西通志
-#+DATE: 2019-03-29 20:53:14.272295
+#+DATE: 2019-03-29 20:53:16.360549
 #+PROPERTY: ID KR2k0054
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 5
 <pb:KR2k0054_WYG_005-1a>¶
 　　欽定四庫全書¶
@@ -59,7 +59,7 @@
 ¶
 　　廣西總圖説　　　　　　　　(明)楊　芳¶
 <pb:KR2k0054_WYG_005-3b>¶
-粵之西三江環抱錯編户於蠻獠不當十四五&KR0463;¶
+粵之西三江環抱錯編户於蠻獠不當十四五𤇺¶
 警時聞左右二江土蠻最桀黠時治兵相攻窺及¶
 内地自韓襄毅翦定藤峽始稍稍面革未幾而遺¶
 孽滋蔓嘉靖戊子己亥間凡再尋師焉當府江之¶

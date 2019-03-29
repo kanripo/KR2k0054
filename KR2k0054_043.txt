@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 廣西通志
-#+DATE: 2019-03-29 20:53:14.722967
+#+DATE: 2019-03-29 20:53:17.033722
 #+PROPERTY: ID KR2k0054
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 43
 <pb:KR2k0054_WYG_043-1a>¶
 　　欽定四庫全書¶
@@ -987,7 +987,7 @@
 　　天后廟在縣南溪之上¶
 ¶
 　　孔公祠在縣治西祀元南海孔端公公嘗率鄉兵¶
-巡海遇&KR0275;風吹墮於水而死土人馬駱二姓為立¶
+巡海遇颶風吹墮於水而死土人馬駱二姓為立¶
 <pb:KR2k0054_WYG_043-37a>¶
 祠祭期與厲壇同明崇禎十五年知縣李盤修¶
 ¶

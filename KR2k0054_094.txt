@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 廣西通志
-#+DATE: 2019-03-29 20:53:15.584461
+#+DATE: 2019-03-29 20:53:17.727434
 #+PROPERTY: ID KR2k0054
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 94
 <pb:KR2k0054_WYG_094-1a>¶
 　　欽定四庫全書¶
@@ -515,7 +515,7 @@
 　　東蘭州轄四埲十三哨多苗猺改流以來敬官畏¶
 法習俗漸馴¶
 ¶
-　　茘波縣有&KR2628;&KR1325;狑狪猺獞六種椎跣烙蹠貫甲佩¶
+　　茘波縣有&KR2628;𦍕狑狪猺獞六種椎跣烙蹠貫甲佩¶
 刀粤中悍蠻無有右之者順治初知縣胡啓睿赴¶
 任離縣治僅十五里諸苗不容信宿鳴鼓糾黨並¶
 其僕𨽻盡屠殺之後官畏不敢入皆僑寓府城遥¶

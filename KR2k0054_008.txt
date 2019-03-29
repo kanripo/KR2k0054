@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 廣西通志
-#+DATE: 2019-03-29 20:53:14.291046
+#+DATE: 2019-03-29 20:53:16.387105
 #+PROPERTY: ID KR2k0054
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 8
 <pb:KR2k0054_WYG_008-1a>¶
 　　欽定四庫全書¶
@@ -152,7 +152,7 @@
 <pb:KR2k0054_WYG_008-8a>¶
 　　潯州府¶
 ¶
-　　省南一千一百里為潯州府黔江鬱江如&KR0109;帶焉¶
+　　省南一千一百里為潯州府黔江鬱江如襟帶焉¶
 合流而東藤峽紫荆之險據其西北連數百里實¶
 兩江扼要之巖郡也秦為桂林漢以來為鬱林蒼¶
 梧地貴即烏滸古西甌駱越所居漢太守谷永開¶

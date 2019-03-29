@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 廣西通志
-#+DATE: 2019-03-29 20:53:15.505085
+#+DATE: 2019-03-29 20:53:17.675951
 #+PROPERTY: ID KR2k0054
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 89
 <pb:KR2k0054_WYG_089-1a>¶
 　　欽定四庫全書¶
@@ -12,7 +12,7 @@
 ¶
 　　列女¶
 ¶
-　　自劉向范𣋌而下史家類傳列女而閫德著焉其¶
+　　自劉向范曄而下史家類傳列女而閫德著焉其¶
 最不朽者尤推節烈顧慷慨捐軀無分富貴貧賤¶
 而氷霜自勵撫遺孤養白髪則食貧之難甚於履¶
 豐編户之貞光於閥閲粤西懿範見稱前乘者數¶

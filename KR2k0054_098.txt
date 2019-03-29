@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 廣西通志
-#+DATE: 2019-03-29 20:53:15.657668
+#+DATE: 2019-03-29 20:53:17.769540
 #+PROPERTY: ID KR2k0054
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 98
 <pb:KR2k0054_WYG_098-1a>¶
 　　欽定四庫全書¶
@@ -756,7 +756,7 @@
 ¶
 　　雍正六年十一月二十八日¶
 ¶
-　　上諭據編纂一統志總裁官大學士&KR0253;廷錫等奏稱本¶
+　　上諭據編纂一統志總裁官大學士蔣廷錫等奏稱本¶
 <pb:KR2k0054_WYG_098-37a>¶
 朝名宦人物各省志書既多缺略即有採録又不無¶
 冒濫必得詳查確核採其行義事跡卓然可𫝊者方¶
